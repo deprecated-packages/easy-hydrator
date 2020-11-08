@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace Symplify\EasyHydrator\TypeCaster;
+namespace Symplify\EasyHydrator\Contract;
 
 use ReflectionParameter;
 use Symplify\EasyHydrator\ClassConstructorValuesResolver;
